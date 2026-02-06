@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\NET201_LapTrinhWeb\\lab6remake\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A8F8C6DB-3A1B-4E86-A989-D0503465DE75}|lab6remake\\lab6remake.csproj|d:\\net201_laptrinhweb\\lab6remake\\lab6remake\\lab6remake.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A8F8C6DB-3A1B-4E86-A989-D0503465DE75}|lab6remake\\lab6remake.csproj|solutionrelative:lab6remake\\lab6remake.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A8F8C6DB-3A1B-4E86-A989-D0503465DE75}|lab6remake\\lab6remake.csproj|d:\\net201_laptrinhweb\\lab6remake\\lab6remake\\services\\iproductapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8F8C6DB-3A1B-4E86-A989-D0503465DE75}|lab6remake\\lab6remake.csproj|solutionrelative:lab6remake\\services\\iproductapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -86,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,7 +98,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
+              "Title": "lab6remake",
+              "DocumentMoniker": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\lab6remake.csproj",
+              "RelativeDocumentMoniker": "lab6remake\\lab6remake.csproj",
+              "ToolTip": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\lab6remake.csproj*",
+              "RelativeToolTip": "lab6remake\\lab6remake.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-06T14:03:27.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Views\\Products\\Details.cshtml",
               "RelativeDocumentMoniker": "lab6remake\\Views\\Products\\Details.cshtml",
@@ -102,11 +119,12 @@
               "RelativeToolTip": "lab6remake\\Views\\Products\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-29T12:10:58.733Z"
+              "WhenOpened": "2026-01-29T12:10:58.733Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Views\\Products\\Delete.cshtml",
               "RelativeDocumentMoniker": "lab6remake\\Views\\Products\\Delete.cshtml",
@@ -114,11 +132,12 @@
               "RelativeToolTip": "lab6remake\\Views\\Products\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-29T12:10:34.767Z"
+              "WhenOpened": "2026-01-29T12:10:34.767Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Views\\Products\\Edit.cshtml",
               "RelativeDocumentMoniker": "lab6remake\\Views\\Products\\Edit.cshtml",
@@ -126,11 +145,12 @@
               "RelativeToolTip": "lab6remake\\Views\\Products\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-29T12:10:13.648Z"
+              "WhenOpened": "2026-01-29T12:10:13.648Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Views\\Products\\Create.cshtml",
               "RelativeDocumentMoniker": "lab6remake\\Views\\Products\\Create.cshtml",
@@ -138,11 +158,12 @@
               "RelativeToolTip": "lab6remake\\Views\\Products\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-29T12:09:49.531Z"
+              "WhenOpened": "2026-01-29T12:09:49.531Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Views\\Products\\Index.cshtml",
               "RelativeDocumentMoniker": "lab6remake\\Views\\Products\\Index.cshtml",
@@ -150,11 +171,12 @@
               "RelativeToolTip": "lab6remake\\Views\\Products\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-29T12:09:24.545Z"
+              "WhenOpened": "2026-01-29T12:09:24.545Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Controllers\\Web\\ProductsController.cs",
               "RelativeDocumentMoniker": "lab6remake\\Controllers\\Web\\ProductsController.cs",
@@ -162,11 +184,12 @@
               "RelativeToolTip": "lab6remake\\Controllers\\Web\\ProductsController.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAkwHoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T12:07:54.573Z"
+              "WhenOpened": "2026-01-29T12:07:54.573Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ProductApiService.cs",
               "DocumentMoniker": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Services\\ProductApiService.cs",
               "RelativeDocumentMoniker": "lab6remake\\Services\\ProductApiService.cs",
@@ -174,11 +197,12 @@
               "RelativeToolTip": "lab6remake\\Services\\ProductApiService.cs",
               "ViewState": "AgIAAD4AAAAAAAAAAAAgwHMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T12:06:32.405Z"
+              "WhenOpened": "2026-01-29T12:06:32.405Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "IProductApiService.cs",
               "DocumentMoniker": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Services\\IProductApiService.cs",
               "RelativeDocumentMoniker": "lab6remake\\Services\\IProductApiService.cs",
@@ -191,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "lab6remake\\Views\\Shared\\_Layout.cshtml",
@@ -199,23 +223,25 @@
               "RelativeToolTip": "lab6remake\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-29T12:11:52.613Z"
+              "WhenOpened": "2026-01-29T12:11:52.613Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "lab6remake\\Properties\\launchSettings.json",
               "ToolTip": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Properties\\launchSettings.json",
               "RelativeToolTip": "lab6remake\\Properties\\launchSettings.json",
-              "ViewState": "AgIAACkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-29T12:12:53.143Z"
+              "WhenOpened": "2026-01-29T12:12:53.143Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "CategoriesApiController.cs",
               "DocumentMoniker": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Controllers\\API\\CategoriesApiController.cs",
               "RelativeDocumentMoniker": "lab6remake\\Controllers\\API\\CategoriesApiController.cs",
@@ -223,11 +249,12 @@
               "RelativeToolTip": "lab6remake\\Controllers\\API\\CategoriesApiController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T12:04:15.168Z"
+              "WhenOpened": "2026-01-29T12:04:15.168Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProductsApiController.cs",
               "DocumentMoniker": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Controllers\\API\\ProductsApiController.cs",
               "RelativeDocumentMoniker": "lab6remake\\Controllers\\API\\ProductsApiController.cs",
@@ -235,11 +262,12 @@
               "RelativeToolTip": "lab6remake\\Controllers\\API\\ProductsApiController.cs",
               "ViewState": "AgIAAEgAAAAAAAAAAAAowG4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T12:03:30.939Z"
+              "WhenOpened": "2026-01-29T12:03:30.939Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Repositories\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "lab6remake\\Repositories\\CategoryRepository.cs",
@@ -247,11 +275,12 @@
               "RelativeToolTip": "lab6remake\\Repositories\\CategoryRepository.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAowEsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T12:02:11.275Z"
+              "WhenOpened": "2026-01-29T12:02:11.275Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "ICategoryRepository.cs",
               "DocumentMoniker": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Repositories\\Interfaces\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "lab6remake\\Repositories\\Interfaces\\ICategoryRepository.cs",
@@ -259,11 +288,12 @@
               "RelativeToolTip": "lab6remake\\Repositories\\Interfaces\\ICategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T12:01:41.448Z"
+              "WhenOpened": "2026-01-29T12:01:41.448Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Models\\Category.cs",
               "RelativeDocumentMoniker": "lab6remake\\Models\\Category.cs",
@@ -271,11 +301,12 @@
               "RelativeToolTip": "lab6remake\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T11:59:57.445Z"
+              "WhenOpened": "2026-01-29T11:59:57.445Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Program.cs",
               "RelativeDocumentMoniker": "lab6remake\\Program.cs",
@@ -283,11 +314,12 @@
               "RelativeToolTip": "lab6remake\\Program.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAAwEIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T11:47:53.207Z"
+              "WhenOpened": "2026-01-29T11:47:53.207Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\appsettings.json",
               "RelativeDocumentMoniker": "lab6remake\\appsettings.json",
@@ -295,31 +327,34 @@
               "RelativeToolTip": "lab6remake\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-29T11:47:41.907Z"
+              "WhenOpened": "2026-01-29T11:47:41.907Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "lab6remake\\Data\\AppDbContext.cs",
               "ToolTip": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Data\\AppDbContext.cs",
               "RelativeToolTip": "lab6remake\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAEBUwA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T11:47:10.527Z"
+              "WhenOpened": "2026-01-29T11:47:10.527Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Models\\Product.cs",
               "RelativeDocumentMoniker": "lab6remake\\Models\\Product.cs",
               "ToolTip": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Models\\Product.cs",
               "RelativeToolTip": "lab6remake\\Models\\Product.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAowBcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA7wBcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T11:46:12.816Z"
+              "WhenOpened": "2026-01-29T11:46:12.816Z",
+              "EditorCaption": ""
             }
           ]
         }
