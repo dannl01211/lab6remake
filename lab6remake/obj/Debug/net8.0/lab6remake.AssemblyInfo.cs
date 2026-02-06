@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab6remake")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23ad03b22980d9493d9936ee30fa5ce427671f45")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab6remake")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab6remake")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

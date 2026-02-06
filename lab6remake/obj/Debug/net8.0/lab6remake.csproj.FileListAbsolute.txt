@@ -445,3 +445,4 @@ D:\NET201_LapTrinhWeb\lab6remake\lab6remake\bin\Debug\net8.0\Microsoft.AspNetCor
 D:\NET201_LapTrinhWeb\lab6remake\lab6remake\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
 D:\NET201_LapTrinhWeb\lab6remake\lab6remake\obj\Debug\net8.0\lab6remake.RazorAssemblyInfo.cache
 D:\NET201_LapTrinhWeb\lab6remake\lab6remake\obj\Debug\net8.0\lab6remake.RazorAssemblyInfo.cs
+D:\NET201_LapTrinhWeb\lab6remake\lab6remake\obj\Debug\net8.0\lab6remake.sourcelink.json
