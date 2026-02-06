@@ -1,0 +1,6 @@
+[build]
+builder = "nixpacks"
+buildCommand = "cd lab6remake && dotnet restore && dotnet publish -c Release -o /app/out"
+
+[deploy]
+startCommand = "cd /app/out && dotnet lab6remake.dll"
