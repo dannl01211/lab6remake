@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NET201_LapTrinhWeb\\lab6remake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F8C6DB-3A1B-4E86-A989-D0503465DE75}|lab6remake\\lab6remake.csproj|d:\\net201_laptrinhweb\\lab6remake\\lab6remake\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A8F8C6DB-3A1B-4E86-A989-D0503465DE75}|lab6remake\\lab6remake.csproj|solutionrelative:lab6remake\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F8C6DB-3A1B-4E86-A989-D0503465DE75}|lab6remake\\lab6remake.csproj|d:\\net201_laptrinhweb\\lab6remake\\lab6remake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F8C6DB-3A1B-4E86-A989-D0503465DE75}|lab6remake\\lab6remake.csproj|solutionrelative:lab6remake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F8C6DB-3A1B-4E86-A989-D0503465DE75}|lab6remake\\lab6remake.csproj|d:\\net201_laptrinhweb\\lab6remake\\lab6remake\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A8F8C6DB-3A1B-4E86-A989-D0503465DE75}|lab6remake\\lab6remake.csproj|solutionrelative:lab6remake\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F8C6DB-3A1B-4E86-A989-D0503465DE75}|lab6remake\\lab6remake.csproj|d:\\net201_laptrinhweb\\lab6remake\\lab6remake\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8F8C6DB-3A1B-4E86-A989-D0503465DE75}|lab6remake\\lab6remake.csproj|solutionrelative:lab6remake\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F8C6DB-3A1B-4E86-A989-D0503465DE75}|lab6remake\\lab6remake.csproj|d:\\net201_laptrinhweb\\lab6remake\\lab6remake\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8F8C6DB-3A1B-4E86-A989-D0503465DE75}|lab6remake\\lab6remake.csproj|solutionrelative:lab6remake\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F8C6DB-3A1B-4E86-A989-D0503465DE75}|lab6remake\\lab6remake.csproj|d:\\net201_laptrinhweb\\lab6remake\\lab6remake\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8F8C6DB-3A1B-4E86-A989-D0503465DE75}|lab6remake\\lab6remake.csproj|solutionrelative:lab6remake\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F8C6DB-3A1B-4E86-A989-D0503465DE75}|lab6remake\\lab6remake.csproj|d:\\net201_laptrinhweb\\lab6remake\\lab6remake\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8F8C6DB-3A1B-4E86-A989-D0503465DE75}|lab6remake\\lab6remake.csproj|solutionrelative:lab6remake\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F8C6DB-3A1B-4E86-A989-D0503465DE75}|lab6remake\\lab6remake.csproj|d:\\net201_laptrinhweb\\lab6remake\\lab6remake\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8F8C6DB-3A1B-4E86-A989-D0503465DE75}|lab6remake\\lab6remake.csproj|solutionrelative:lab6remake\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F8C6DB-3A1B-4E86-A989-D0503465DE75}|lab6remake\\lab6remake.csproj|d:\\net201_laptrinhweb\\lab6remake\\lab6remake\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8F8C6DB-3A1B-4E86-A989-D0503465DE75}|lab6remake\\lab6remake.csproj|solutionrelative:lab6remake\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F8C6DB-3A1B-4E86-A989-D0503465DE75}|lab6remake\\lab6remake.csproj|d:\\net201_laptrinhweb\\lab6remake\\lab6remake\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F8C6DB-3A1B-4E86-A989-D0503465DE75}|lab6remake\\lab6remake.csproj|solutionrelative:lab6remake\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F8C6DB-3A1B-4E86-A989-D0503465DE75}|lab6remake\\lab6remake.csproj|d:\\net201_laptrinhweb\\lab6remake\\lab6remake\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F8C6DB-3A1B-4E86-A989-D0503465DE75}|lab6remake\\lab6remake.csproj|solutionrelative:lab6remake\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F8C6DB-3A1B-4E86-A989-D0503465DE75}|lab6remake\\lab6remake.csproj|d:\\net201_laptrinhweb\\lab6remake\\lab6remake\\controllers\\web\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F8C6DB-3A1B-4E86-A989-D0503465DE75}|lab6remake\\lab6remake.csproj|solutionrelative:lab6remake\\controllers\\web\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F8C6DB-3A1B-4E86-A989-D0503465DE75}|lab6remake\\lab6remake.csproj|d:\\net201_laptrinhweb\\lab6remake\\lab6remake\\services\\iproductapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F8C6DB-3A1B-4E86-A989-D0503465DE75}|lab6remake\\lab6remake.csproj|solutionrelative:lab6remake\\services\\iproductapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F8C6DB-3A1B-4E86-A989-D0503465DE75}|lab6remake\\lab6remake.csproj|d:\\net201_laptrinhweb\\lab6remake\\lab6remake\\services\\productapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F8C6DB-3A1B-4E86-A989-D0503465DE75}|lab6remake\\lab6remake.csproj|solutionrelative:lab6remake\\services\\productapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F8C6DB-3A1B-4E86-A989-D0503465DE75}|lab6remake\\lab6remake.csproj|d:\\net201_laptrinhweb\\lab6remake\\lab6remake\\controllers\\api\\categoriesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F8C6DB-3A1B-4E86-A989-D0503465DE75}|lab6remake\\lab6remake.csproj|solutionrelative:lab6remake\\controllers\\api\\categoriesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F8C6DB-3A1B-4E86-A989-D0503465DE75}|lab6remake\\lab6remake.csproj|d:\\net201_laptrinhweb\\lab6remake\\lab6remake\\controllers\\api\\productsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F8C6DB-3A1B-4E86-A989-D0503465DE75}|lab6remake\\lab6remake.csproj|solutionrelative:lab6remake\\controllers\\api\\productsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F8C6DB-3A1B-4E86-A989-D0503465DE75}|lab6remake\\lab6remake.csproj|d:\\net201_laptrinhweb\\lab6remake\\lab6remake\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F8C6DB-3A1B-4E86-A989-D0503465DE75}|lab6remake\\lab6remake.csproj|solutionrelative:lab6remake\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F8C6DB-3A1B-4E86-A989-D0503465DE75}|lab6remake\\lab6remake.csproj|d:\\net201_laptrinhweb\\lab6remake\\lab6remake\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F8C6DB-3A1B-4E86-A989-D0503465DE75}|lab6remake\\lab6remake.csproj|solutionrelative:lab6remake\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F8C6DB-3A1B-4E86-A989-D0503465DE75}|lab6remake\\lab6remake.csproj|d:\\net201_laptrinhweb\\lab6remake\\lab6remake\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F8C6DB-3A1B-4E86-A989-D0503465DE75}|lab6remake\\lab6remake.csproj|solutionrelative:lab6remake\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "lab6remake\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Properties\\launchSettings.json",
+              "RelativeToolTip": "lab6remake\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-29T12:12:53.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "lab6remake\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "lab6remake\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-29T12:11:52.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "lab6remake\\Views\\Products\\Details.cshtml",
+              "ToolTip": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Views\\Products\\Details.cshtml*",
+              "RelativeToolTip": "lab6remake\\Views\\Products\\Details.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-29T12:10:58.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "lab6remake\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Views\\Products\\Delete.cshtml*",
+              "RelativeToolTip": "lab6remake\\Views\\Products\\Delete.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-29T12:10:34.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "lab6remake\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Views\\Products\\Edit.cshtml*",
+              "RelativeToolTip": "lab6remake\\Views\\Products\\Edit.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-29T12:10:13.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "lab6remake\\Views\\Products\\Create.cshtml",
+              "ToolTip": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Views\\Products\\Create.cshtml*",
+              "RelativeToolTip": "lab6remake\\Views\\Products\\Create.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-29T12:09:49.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "lab6remake\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Views\\Products\\Index.cshtml*",
+              "RelativeToolTip": "lab6remake\\Views\\Products\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-29T12:09:24.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Controllers\\Web\\ProductsController.cs",
+              "RelativeDocumentMoniker": "lab6remake\\Controllers\\Web\\ProductsController.cs",
+              "ToolTip": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Controllers\\Web\\ProductsController.cs*",
+              "RelativeToolTip": "lab6remake\\Controllers\\Web\\ProductsController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T12:07:54.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductApiService.cs",
+              "DocumentMoniker": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Services\\ProductApiService.cs",
+              "RelativeDocumentMoniker": "lab6remake\\Services\\ProductApiService.cs",
+              "ToolTip": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Services\\ProductApiService.cs*",
+              "RelativeToolTip": "lab6remake\\Services\\ProductApiService.cs*",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAswHMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T12:06:32.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IProductApiService.cs",
+              "DocumentMoniker": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Services\\IProductApiService.cs",
+              "RelativeDocumentMoniker": "lab6remake\\Services\\IProductApiService.cs",
+              "ToolTip": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Services\\IProductApiService.cs*",
+              "RelativeToolTip": "lab6remake\\Services\\IProductApiService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T12:06:11.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoriesApiController.cs",
+              "DocumentMoniker": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Controllers\\API\\CategoriesApiController.cs",
+              "RelativeDocumentMoniker": "lab6remake\\Controllers\\API\\CategoriesApiController.cs",
+              "ToolTip": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Controllers\\API\\CategoriesApiController.cs*",
+              "RelativeToolTip": "lab6remake\\Controllers\\API\\CategoriesApiController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T12:04:15.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductsApiController.cs",
+              "DocumentMoniker": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Controllers\\API\\ProductsApiController.cs",
+              "RelativeDocumentMoniker": "lab6remake\\Controllers\\API\\ProductsApiController.cs",
+              "ToolTip": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Controllers\\API\\ProductsApiController.cs*",
+              "RelativeToolTip": "lab6remake\\Controllers\\API\\ProductsApiController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T12:03:30.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "lab6remake\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Repositories\\CategoryRepository.cs*",
+              "RelativeToolTip": "lab6remake\\Repositories\\CategoryRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T12:02:11.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "lab6remake\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Repositories\\Interfaces\\ICategoryRepository.cs*",
+              "RelativeToolTip": "lab6remake\\Repositories\\Interfaces\\ICategoryRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T12:01:41.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "lab6remake\\Models\\Category.cs",
+              "ToolTip": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Models\\Category.cs*",
+              "RelativeToolTip": "lab6remake\\Models\\Category.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T11:59:57.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Program.cs",
+              "RelativeDocumentMoniker": "lab6remake\\Program.cs",
+              "ToolTip": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Program.cs*",
+              "RelativeToolTip": "lab6remake\\Program.cs*",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwEIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T11:47:53.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\appsettings.json",
+              "RelativeDocumentMoniker": "lab6remake\\appsettings.json",
+              "ToolTip": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\appsettings.json*",
+              "RelativeToolTip": "lab6remake\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-29T11:47:41.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "lab6remake\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Data\\AppDbContext.cs*",
+              "RelativeToolTip": "lab6remake\\Data\\AppDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T11:47:10.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "lab6remake\\Models\\Product.cs",
+              "ToolTip": "D:\\NET201_LapTrinhWeb\\lab6remake\\lab6remake\\Models\\Product.cs*",
+              "RelativeToolTip": "lab6remake\\Models\\Product.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T11:46:12.816Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
